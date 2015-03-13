@@ -1,0 +1,1 @@
+This project attempts to document and track the defects throughout the process of writing an app for tracking world crisis
